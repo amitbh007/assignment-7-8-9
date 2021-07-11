@@ -14,6 +14,9 @@
 
 <br />
 
+![Alt text](./project.png?raw=true "Title")
+
+
 ## concepts/Libraries used
 
 * Tailwind css for styling
@@ -42,5 +45,4 @@ test the graphql queries/mutations at http://localhost:4000/graphql
 <br />
 <br />
 
-![Alt text](./project.png?raw=true "Title")
 
